@@ -2,10 +2,8 @@ streamlit
 pandas
 langchain-core
 langchain-community
-langchain-huggingface
 langchain-groq
-langchain-text-splitters
-sentence-transformers
+fastembed
 chromadb
 networkx
 pyvis
